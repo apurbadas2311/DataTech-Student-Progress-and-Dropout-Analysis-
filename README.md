@@ -83,3 +83,5 @@ A course designer wants to know which student group needs more accelerated conte
 2.	They observe that BTech students are faster (8.50 days) and BCom students are slower (10.5 days).
 
 3.	Action: The designer decides to introduce specialized support or supplementary materials for BCom students to help them keep pace and reduce their time-to-completion.
+
+![image_atl](https://github.com/apurbadas2311/DataTech-Student-Progress-and-Dropout-Analysis-/blob/main/DataTech(Dashboard).png)
